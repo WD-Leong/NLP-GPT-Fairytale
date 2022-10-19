@@ -21,4 +21,10 @@ python infer_fairytale_gpt.py
 to generate samples of fairytales. 
 
 ## Generated Sample
-
+The fairytale text generated at the 16,500 iteration is:
+```
+Input Phrase:
+[SOS] once
+Generated Phrase:
+[SOS] once upon a time there lived a king who had a wife and three sons , and they were all well fond of their mother , and they loved each other dearly , and the elder called one of his sons , and said to him , ' i am going to marry the witch that she may choose .' this made the girl look rather pale , but she would blush away . ' i never ,' she said , ' i am afraid you are a dead man .' ' why did you believe me ?' ' because i did not know you were here , though i was , to see if i had not known anything to you . but i have never seen you before .' ' oh , yes , i am ,' answered the princess , and a little feeble voice pressed forward . ' i am the king of the gnomes ,' she said to the other messengers , ' but if you will only bring me my golden sword and your head your head will no longer sit here , and then mount the colt which is taller than i .' on each side of the mountain they were all sitting a huge black horse , with long ears and long black hair , and his eyes were as large as saucers . ' now i am tired of waiting for my brother ,' said he , ' and i shall
+```
