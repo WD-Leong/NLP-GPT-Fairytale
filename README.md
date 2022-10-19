@@ -3,7 +3,7 @@ This repository is a small project to generate fairytales using the GPT architec
 ```
 wget https://raw.githubusercontent.com/SuzannaWentzel/FairyTale-Generator/main/data/Fairytales_db/merged_clean.txt
 ```
-to get the data. For convenience, the data is also included in the repository's release. 
+to get the data. For convenience, the data is also included in the repository's release. The model's default settings uses a window of 50 words, 6 decoder layers and a hidden size of 512 with 8 heads.
 
 ## Model Training and Inference
 To train the model, first generate the word tokens via
